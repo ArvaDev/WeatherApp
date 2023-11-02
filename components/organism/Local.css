@@ -1,0 +1,26 @@
+.LocalWeatherClass{
+    display: inline-flex;
+    align-items: center;
+    height: 50vh;
+    width: 100%;
+    background: #415c97;
+}
+.GlobalSearch{
+    background: red;
+    height: 90%;
+    width: 64%;
+    border-radius: 20px;
+    background: linear-gradient(-30deg, #274482, #7a91c2);
+}
+
+.PClass{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff22;
+    color: white;
+    margin: 0 20px;
+    height: 90%;
+    width: 100%;
+    border-radius: 20px;
+}

@@ -1,0 +1,21 @@
+.BuscadorClass{
+    background: linear-gradient(40deg, #5b6e9a, #92a1be);
+    display: inline-block;
+    overflow: hidden;
+    height: 90%;
+    width: 700px;
+    border-radius: 10px;
+    margin: 0 20px;
+    color: white;
+}
+.BuscadorClass h2{
+    margin: 10px 20px;
+}
+.InpClass{
+    height: 25%;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}

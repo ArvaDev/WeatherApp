@@ -1,0 +1,75 @@
+.CartContainer{
+    display: inline-block;
+    height: 90%;
+    width: 100%;
+    background: linear-gradient(30deg, #274482, #7a91c2);
+    border-radius: 20px;
+    overflow: hidden;
+    color: white;
+    margin: 0 20px;
+}
+.Temp{
+    background: #ffffff22;
+    margin: 0;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 45%;
+    width: 100%;
+}
+
+.NowClass{
+    height: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+
+.NowClass h3, h5{
+    font-weight: lighter;
+    margin: 0 0 10px 0;
+}
+
+.Celsius{
+    font-size: 40px;
+    font-weight: lighter;
+    margin: 0 20px;
+}
+
+.Localidad{
+    margin: 0;
+    height: 55%;
+}
+.Localidad h1{
+    margin: 0 20px;
+}
+
+.DataClass{
+    height: 50%;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.DataClass p{
+    margin: 0 20px;
+    font-size: 12px;
+}
+.DataClass p h3 , h4{
+    margin: 0;
+    font-weight: lighter;
+}
+
+.MaxAndMin{
+    height: 80%;
+    margin: 0 10px;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+
+.MaxAndMin h3, h5{
+    font-weight: lighter;
+    margin: 0;
+}
